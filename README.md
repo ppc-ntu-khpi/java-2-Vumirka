@@ -16,8 +16,8 @@
 int gray = R ^ (R >> 1);
 ```
 ### Код Exercise.java
-(https://github.com/ppc-ntu-khpi/java-2-Vumirka/blob/master/1.png?raw=true)
+![Exercise.java](https://github.com/ppc-ntu-khpi/java-2-Vumirka/blob/master/1.png?raw=true)
 ### Код TestResult.java
-(https://github.com/ppc-ntu-khpi/java-2-Vumirka/blob/master/2.png?raw=true)
+![TestResult.java](https://github.com/ppc-ntu-khpi/java-2-Vumirka/blob/master/2.png?raw=true)
 ### Результат 
-(https://github.com/ppc-ntu-khpi/java-2-Vumirka/blob/master/3.png?raw=true)
+![Результат](https://github.com/ppc-ntu-khpi/java-2-Vumirka/blob/master/3.png?raw=true)
